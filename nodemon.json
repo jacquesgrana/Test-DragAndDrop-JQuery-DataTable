@@ -1,0 +1,7 @@
+{
+    "ignore": ["db.json", "package.json", "package-lock.json", "nodemon.json", "node_modules/**/*", ".git/**/*"],
+    "watch": ["*.*"],
+    "ext": "html,css,js",
+    "exec": "http-server -c-01 -p 12000"
+}
+   

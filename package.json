@@ -1,0 +1,16 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "json-server": "^0.17.4",
+    "nodemon": "^3.0.2"
+  }
+}
